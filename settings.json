@@ -1,4 +1,4 @@
-p{
+{
   "NOTES_1": [
     "Please configure the PREFIX, ADMINBOT, also make sure the knownURL is set to your server url without trailing /",
     "You can do noFB: true, to disable facebook login.",
@@ -28,7 +28,7 @@ p{
   "pageAccessToken": "",
   "pageVerifyToken": "",
   "mqttRestart": {
-    "enabled": truep,
+    "enabled": true,
     "interval": 3600000,
     "note": "This restarts the MQTT Listener on facebook."
   },
