@@ -11,7 +11,7 @@
   "knownURL": "https://cassidyredux.onrender.com",
   "noFB": false,
   "PREFIX": "#",
-  "NICKNAME": "Cassidy Bot",
+  "NICKNAME": "CASSIDY BOT V4 💧",
   "CUSTOM_STYLE": {
     "enabled": false,
     "note": "When enabled, this will allow you to customize certain styles of bot responses. {word} represents non-emoji texts and {emojis} represents emojis. Change the TITLE_PATTERN to your likings.",
@@ -28,7 +28,7 @@
   "pageAccessToken": "",
   "pageVerifyToken": "",
   "mqttRestart": {
-    "enabled": true,
+    "enabled": false,
     "interval": 3600000,
     "note": "This restarts the MQTT Listener on facebook."
   },
@@ -47,7 +47,7 @@
     "forceLogin": true,
     "autoMarkDelivery": false,
     "autoMarkRead": false,
-    "autoReconnect": true,
+    "autoReconnect": false,
     "online": true,
     "emitReady": false,
     "randomUserAgent": false,
